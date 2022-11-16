@@ -34,7 +34,17 @@ I am a Deepjyoti Barman currently looking for jobs in the field of computer scie
 
 # Projects
 
+E-MARKET 
 
+  this is a Basic representaion of how a E-market Websites work
+
+E-Video-Streaming
+
+  this is a Basic representaion of how a Video streaming Platform works
+  
+Simple Authentication
+  
+  A represnetaion of how a website authenticate its users
 
 # Security Vulnerabity Findings on different Websites(Publicly Disclosed)
 
