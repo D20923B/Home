@@ -3,6 +3,8 @@ I am a Deepjyoti Barman currently looking for jobs in the field of computer scie
 
 # I am capable of working with 
 
+(Please click on the links to view certificates)
+
 -Nodejs
   -Expressjs (framework)
   
@@ -26,8 +28,8 @@ I am a Deepjyoti Barman currently looking for jobs in the field of computer scie
 
    https://www.hackerrank.com/certificates/iframe/1e1fa44ce127
 
-#My hackerrank profile
+# My hackerrank profile
 
 - https://www.hackerrank.com/db9_hackerone
 
-#Projects
+# Projects
