@@ -33,3 +33,9 @@ I am a Deepjyoti Barman currently looking for jobs in the field of computer scie
 - https://www.hackerrank.com/db9_hackerone
 
 # Projects
+
+
+
+# Security Vulnerabity Findings on different Websites(Publicly Disclosed)
+
+https://hackerone.com/reports/1357013
